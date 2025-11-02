@@ -1,4 +1,5 @@
 # 💫 Hakkımda
+👋 Merhabalar Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümünde 2. sınıf öğrencisiyim.<br>
 💻 GDG on Campus KTÜ’de tasarım departmanında yer alıyorum. <br>
 🎨 Adobe programlarıyla çalışıyor, görsel tasarımlar üretiyorum.<br>
 🧰 Bilgisayar tamiriyle ilgileniyor, teknik sorunları çözmeyi seviyorum.<br>
@@ -7,9 +8,8 @@
 
 --- 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif" width="400" alt="Cute Kawaii GIF" />
+  <img src="https://media.giphy.com/media/mEsOq022kLlDO/giphy.gif" width="300" alt="Smile Adorable GIF" />
 </div>
-
 
 ## 🌐 Sosyal Medya Bağlantılarım
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meryem-çölkesenoğlu-571758367) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@meryemcolkesen0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meryemcolkesen0@gmail.com) 
@@ -30,12 +30,5 @@
 
 ---
 
-
-
-### ✍️ Geliştirici Sözü
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=meryemcolkesen&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
