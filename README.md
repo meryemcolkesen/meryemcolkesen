@@ -1,9 +1,9 @@
 # 💫 Hakkımda
-💻 GDG on Campus KTÜ’de tasarım departmanında yer alıyorum.
-🎨 Adobe programlarıyla çalışıyor, görsel tasarımlar üretiyorum.
-🧰 Bilgisayar tamiriyle ilgileniyor, teknik sorunları çözmeyi seviyorum.
-🧠 Donanım, sistem optimizasyonu ve siber güvenlik konularına ilgi duyuyorum.
-🎯 Amacım yeni şeyler öğrenmek, üretmek ve öğrendiklerimi projelere dönüştürmek.
+💻 GDG on Campus KTÜ’de tasarım departmanında yer alıyorum. <br>
+🎨 Adobe programlarıyla çalışıyor, görsel tasarımlar üretiyorum.<br>
+🧰 Bilgisayar tamiriyle ilgileniyor, teknik sorunları çözmeyi seviyorum.<br>
+🧠 Donanım, sistem optimizasyonu ve siber güvenlik konularına ilgi duyuyorum.<br>
+🎯 Amacım yeni şeyler öğrenmek, üretmek ve öğrendiklerimi projelere dönüştürmek.<br>
 
 --- 
 <div align="center">
