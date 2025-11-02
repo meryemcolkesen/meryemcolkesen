@@ -1,3 +1,4 @@
+<img src=https://camo.githubusercontent.com/562d4da7a62695bc9a6c33a90a12ebf5c1a975604a26abf182fab68c9fa63592/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b26636f6c6f723d6772616469656e74266865696768743d313430/>
 <img src="https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif" width="500" alt="Cute Kawaii GIF" />
 
 💻 Bilgisayar donanımı, teknik servis ve elektronik ürünler alanında deneyim sahibiyim.  
