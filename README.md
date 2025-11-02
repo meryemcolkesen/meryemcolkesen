@@ -1,5 +1,5 @@
 # 👋 Merhaba!
-<img src="https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif" width="100" alt="Cute Kawaii GIF" />
+<img src="https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif" width="600" alt="Cute Kawaii GIF" />
 
 💻 Bilgisayar donanımı, teknik servis ve elektronik ürünler alanında deneyim sahibiyim.  
 🧠 Yazılım geliştirme, kullanıcı arayüzü tasarımı ve siber güvenlik konularına ilgi duyuyor ve bu alanlarda kendimi geliştiriyorum.  
