@@ -1,4 +1,5 @@
 # 👋 Merhaba!
+<img src="https://tr.pinterest.com/pin/22799541851869764/" width=400>
 
 💻 Bilgisayar donanımı, teknik servis ve elektronik ürünler alanında deneyim sahibiyim.  
 🧠 Yazılım geliştirme, kullanıcı arayüzü tasarımı ve siber güvenlik konularına ilgi duyuyor ve bu alanlarda kendimi geliştiriyorum.  
