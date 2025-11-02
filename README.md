@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Merhaba!
 
-<!--
-**meryemcolkesen/meryemcolkesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bilgisayar donanımı, teknik servis ve elektronik ürünler alanında deneyim sahibiyim.  
+🧠 Yazılım geliştirme, kullanıcı arayüzü tasarımı ve siber güvenlik konularına ilgi duyuyor ve bu alanlarda kendimi geliştiriyorum.  
+🎯 Amacım teknolojiyle üretmek, öğrenmek ve paylaşmak.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Kullandığım Teknolojiler ve Araçlar
+
+- 💻 **Programlama Dilleri:** C#, Python, Kotlin, HTML, CSS, PHP 
+- 🧩 **Araçlar:** Visual Studio, Git, Figma, VS Code, Adobe Creative Cloud Araçları
+- ⚙️ **İlgi Alanları:** Donanım, yazılım geliştirme, UI tasarımı, siber güvenlik,   
+
+---
+
+## 🌍 Benimle Bağlantı Kur
+
+📫 **E-posta:** meryemcolkesen0@gmail.com 
+💼 **LinkedIn:** https://tr.linkedin.com/in/meryem-%C3%A7%C3%B6lkeseno%C4%9Flu-571758367
+💾 **GitHub:** https://github.com/meryemcolkesen
+
+---
+
+🌊 Teknoloji, tasarım ve yaratıcılığın kesişiminde yeni şeyler keşfetmeyi seviyorum. ✨
