@@ -3,7 +3,6 @@
 🎨 Adobe programlarıyla çalışıyor, görsel tasarımlar üretiyorum.<br>
 🧰 Bilgisayar tamiriyle ilgileniyor, teknik sorunları çözmeyi seviyorum.<br>
 💻 Donanım, sistem optimizasyonu ve siber güvenlik konularına ilgi duyuyorum.<br>
-🎯 Amacım yeni şeyler öğrenmek, üretmek ve öğrendiklerimi projelere dönüştürmek.<br>
 
 ---
 
