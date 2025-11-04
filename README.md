@@ -1,9 +1,9 @@
 # 🌸 Hakkımda | About Me
-👋 Merhaba, ben Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümünde ikinci sınıf öğrencisiyim. Görsel tasarım ve teknolojiye olan ilgim sayesinde Adobe programlarıyla çeşitli tasarımlar üretiyorum. Bunun yanında bilgisayar tamiriyle uğraşmak, donanım bileşenlerini incelemek ve teknik sorunlara çözüm üretmek benim için bir hobi haline geldi. Sistem optimizasyonu ve siber güvenlik alanlarına duyduğum merak, teknolojiyi yalnızca kullanmak değil, aynı zamanda anlamak ve geliştirmek isteğimi de besliyor. Kendimi sürekli geliştirmeyi, yeni şeyler öğrenmeyi ve öğrendiklerimi paylaşarak başkalarına da ilham olmayı hedefliyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümünde ikinci sınıf öğrencisiyim. Görsel tasarım ve teknolojiye olan ilgim sayesinde Adobe programlarıyla çeşitli tasarımlar üretiyorum. Bunun yanında bilgisayar tamiriyle uğraşmak, donanım bileşenlerini incelemek ve teknik sorunlara çözüm üretmek benim için bir hobi haline geldi. Sistem optimizasyonu ve siber güvenlik alanlarına duyduğum merak, teknolojiyi yalnızca kullanmak değil, aynı zamanda anlamak ve geliştirmek isteğimi de besliyor. Kendimi sürekli geliştirmeyi, yeni şeyler öğrenmeyi ve öğrendiklerimi paylaşarak başkalarına da ilham olmayı hedefliyorum.
 
 ---
 
-## 🌐 Bağlantılarım
+# 🌐 Bağlantılarım
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meryem-çölkesenoğlu-571758367)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@meryemcolkesen0)
 
@@ -14,7 +14,7 @@
 
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/hc1jyTXYaiXy8/giphy.gif" width="300" alt="Cute Kawaii Hamtaro GIF" />
+  <img src="https://media.giphy.com/media/hc1jyTXYaiXy8/giphy.gif" width="200" alt="Cute Kawaii Hamtaro GIF" />
 </div>
 
 
