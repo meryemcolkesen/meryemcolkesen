@@ -1,8 +1,5 @@
 # 🌸 Hakkımda | About Me
-👋 Merhabalar Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümünde 2. sınıf öğrencisiyim.<br>
-🎨 Adobe programlarıyla çalışıyor, görsel tasarımlar üretiyorum.<br>
-🧰 Bilgisayar tamiriyle ilgileniyor, teknik sorunları çözmeyi seviyorum.<br>
-💻 Donanım, sistem optimizasyonu ve siber güvenlik konularına ilgi duyuyorum.<br>
+👋 Merhaba, ben Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümünde ikinci sınıf öğrencisiyim. Görsel tasarım ve teknolojiye olan ilgim sayesinde Adobe programlarıyla çeşitli tasarımlar üretiyorum. Bunun yanında bilgisayar tamiriyle uğraşmak, donanım bileşenlerini incelemek ve teknik sorunlara çözüm üretmek benim için bir hobi haline geldi. Sistem optimizasyonu ve siber güvenlik alanlarına duyduğum merak, teknolojiyi yalnızca kullanmak değil, aynı zamanda anlamak ve geliştirmek isteğimi de besliyor. Kendimi sürekli geliştirmeyi, yeni şeyler öğrenmeyi ve öğrendiklerimi paylaşarak başkalarına da ilham olmayı hedefliyorum.
 
 ---
 
