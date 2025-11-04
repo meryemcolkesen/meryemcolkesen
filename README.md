@@ -1,5 +1,5 @@
 # 🌸 Hakkımda | About Me
-Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümünde ikinci sınıf öğrencisiyim. Görsel tasarım ve teknolojiye olan ilgim sayesinde Adobe programlarıyla çeşitli tasarımlar üretiyorum. Bunun yanında bilgisayar tamiriyle uğraşmak, donanım bileşenlerini incelemek ve teknik sorunlara çözüm üretmek benim için bir hobi haline geldi. Sistem optimizasyonu ve siber güvenlik alanlarına duyduğum merak, teknolojiyi yalnızca kullanmak değil, aynı zamanda anlamak ve geliştirmek isteğimi de besliyor. Kendimi sürekli geliştirmeyi, yeni şeyler öğrenmeyi ve öğrendiklerimi paylaşarak başkalarına da ilham olmayı hedefliyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı ikinci sınıf öğrencisiyim. Görsel tasarım ve teknolojiye olan ilgim doğrultusunda Adobe programlarıyla çeşitli tasarımlar üretiyorum. Ayrıca bilgisayar donanımı, sistem optimizasyonu ve siber güvenlik alanlarında kendimi geliştirmeye odaklanıyorum. Teknolojiyi yalnızca kullanmakla kalmayıp, anlamayı ve geliştirmeyi hedefliyor; edindiğim bilgileri paylaşarak başkalarına ilham vermeyi amaçlıyorum.
 
 ---
 
