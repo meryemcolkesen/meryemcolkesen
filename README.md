@@ -17,20 +17,3 @@ Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı ikinci sınıf öğr
 <div align="center">
   <img src="https://media.giphy.com/media/hc1jyTXYaiXy8/giphy.gif" width="200" alt="Cute Kawaii Hamtaro GIF" />
 </div>
-
-
-# 💫 About Me:
-nigga<br>
-
-
-# 💻 Tech Stack:
- 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
