@@ -1,5 +1,5 @@
 # 🌸 Hakkımda | About Me
-Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı ikinci sınıf öğrencisiyim. Bilgisayar donanımı, teknik servis ve elektronik ürünler alanında deneyim sahibiyim. Yazılım geliştirme, kullanıcı arayüzü tasarımı ve siber güvenlik konularına ilgi duyuyor ve bu alanlarda çalışmalar yapıyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı bölümü mezunuyum. Bilgisayar donanımı, teknik servis ve elektronik ürünler alanında deneyim sahibiyim. Yazılım geliştirme, kullanıcı arayüzü tasarımı ve siber güvenlik konularına ilgi duyuyor ve bu alanlarda çalışmalar yapıyorum.
 
 ---
 
